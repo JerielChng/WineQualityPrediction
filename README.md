@@ -1,6 +1,6 @@
 # Data Science – Wine Quality Prediction
 
-Predicting wine quality (0–10 scale) using linear regression models trained on physicochemical properties of red wine. Includes SHAP-based interpretability for better feature understanding.
+Predicting wine quality (0–10 scale) using linear regression models trained on physicochemical properties of red wine.
 
 ## Dataset
 - UCI Red Wine Dataset: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
